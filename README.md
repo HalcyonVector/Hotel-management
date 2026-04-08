@@ -6,7 +6,7 @@ A JavaFX 21 desktop application for end-to-end hotel management. Manage rooms, h
 
 ## 🎯 Features
 
-### Authentication & Security **[NEW]**
+### Authentication & Security 
 - **Admin Login Screen** — Secure login interface with username/password authentication
 - **Session Management** — Login required before accessing the main dashboard
 - **Default Credentials** — Username: `admin`, Password: `admin`
