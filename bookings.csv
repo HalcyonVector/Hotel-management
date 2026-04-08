@@ -1,0 +1,7 @@
+bookingId,customerName,contactNumber,roomNumber,roomType,pricePerDay,checkInDate,checkOutDate,totalBill,status
+1,Sagnik Basu,7421111111,101,Single,4000.0,2026-04-08,2026-04-13,24400.0,Checked Out
+2,Abhirami Anil,7422222222,201,Double,8000.0,2026-04-08,2026-04-14,48000.0,Checked Out
+3,Rajat Suri,7433333333,102,Single,4000.0,2026-04-09,2026-04-16,28000.0,Checked Out
+4,Vipul Goyal,7424444444,301,Deluxe,16000.0,2026-04-08,2026-04-10,36100.0,Checked Out
+5,Arjun Mittal,7425555555,302,Deluxe,16000.0,2026-04-08,2026-04-17,144000.0,Active
+6,Nikhil Vargis,7425555555,104,Single,6000.0,2026-04-10,2026-04-22,75200.0,Active

@@ -1,0 +1,36 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run HotelMS",
+            "request": "launch",
+            "mainClass": "com.hotel.MainApp",
+            "preLaunchTask": "maven.build",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "args": "",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Debug HotelMS",
+            "request": "launch",
+            "mainClass": "com.hotel.MainApp",
+            "preLaunchTask": "maven.build",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "internalConsoleOptions": "neverOpen",
+            "args": "",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Run with mvn javafx:run",
+            "request": "launch",
+            "mainClass": "com.hotel.MainApp",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}

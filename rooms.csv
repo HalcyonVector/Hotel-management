@@ -1,0 +1,11 @@
+roomNumber,roomType,pricePerDay,available
+101,Single,4000.0,true
+102,Single,4000.0,true
+103,Single,4000.0,true
+104,Single,6000.0,false
+201,Double,8000.0,true
+202,Double,8000.0,true
+203,Double,12000.0,true
+301,Deluxe,16000.0,true
+302,Deluxe,16000.0,false
+303,Deluxe,20000.0,true
