@@ -34,14 +34,14 @@ A JavaFX 21 desktop application for end-to-end hotel management. Manage rooms, h
 - **Active Bookings Reference** — Reference table of active bookings visible on checkout screen
 - **Itemised Receipts** — Receipts show Booking ID, customer info, room details, nights stayed, rate, and total
 
-### Billing & History **[ENHANCED]**
+### Billing & History
 - **Complete Booking History** — Full table of every booking ever made, including checked-out stays
 - **Revenue Summary** — Total Revenue and Completed Stays count displayed at the top
 - **Individual Bill Viewer** — Enter any Booking ID to pull up and display its full receipt
 - **Itemised Receipts** — Receipts show Booking ID, customer info, room details, nights stayed, rate, and total
 - **History Dashboard** — Dedicated Reports tab showing complete checkout history with revenue summary
 
-### Analytics Dashboard **[NEW]**
+### Analytics Dashboard 
 - **Key Metrics Cards** — Display total rooms, occupied rooms, active bookings, and total revenue
 - **Revenue by Room Type** — Bar chart showing revenue breakdown across Single, Double, and Deluxe rooms
 - **Bookings by Room Type** — Pie chart visualizing booking distribution by room category
@@ -54,7 +54,7 @@ A JavaFX 21 desktop application for end-to-end hotel management. Manage rooms, h
 - **Real-Time Data** — All charts and metrics update with current data
 - **Refresh Analytics** — Button to manually refresh analytics data
 
-### Dashboard **[ENHANCED]**
+### Dashboard 
 - **Quick Stats** — At-a-glance summary of key metrics
 - **Recent Activity** — Overview of latest bookings and checkouts
 - **System Status** — Current hotel occupancy and active bookings
