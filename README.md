@@ -353,20 +353,8 @@ No specific license. Contact the author for usage rights.
 
 ## ‍ Author
 
-**Vector**  
+**Sagnik**  
 GitHub: [@HalcyonVector](https://github.com/HalcyonVector)
-
----
-
-## Contributing
-
-Want to improve Grand Vista HMS?
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m "Add amazing feature"`
-4. Push the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
 
 ---
 
